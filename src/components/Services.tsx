@@ -89,8 +89,8 @@ const Services = () => {
     },
     {
       icon: <Home size={32} />,
-      title: 'Property Tax Services',
-      description: 'Comprehensive assistance with property tax payments, name transfers, dues clearance, and related municipal services.',
+      title: 'PMC Property Tax Services',
+      description: 'Comprehensive assistance with property tax service, only for Pune City (Pune Municipal Corporation).',
       features: ['Property tax payment', 'Name transfer', 'Dues verification', 'Municipal record update'],
       whatsappMessage: 'Property Tax Services'
     },
