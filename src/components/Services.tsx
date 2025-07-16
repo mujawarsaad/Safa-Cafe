@@ -10,6 +10,7 @@ import {
   Shield,
   Building2,
   FileText,
+  Home,
   BadgeCheck
 } from 'lucide-react';
 import ServiceCard from './ServiceCard';
@@ -85,6 +86,13 @@ const Services = () => {
       description: 'Open bank accounts with leading banks through our assisted service with minimal documentation.',
       features: ['All major banks', 'Minimal documents', 'Home service', 'Quick approval'],
       whatsappMessage: 'Bank Account Opening'
+    },
+    {
+      icon: <Home size={32} />,
+      title: 'Property Tax Services',
+      description: 'Comprehensive assistance with property tax payments, name transfers, dues clearance, and related municipal services.',
+      features: ['Property tax payment', 'Name transfer', 'Dues verification', 'Municipal record update'],
+      whatsappMessage: 'Property Tax Services'
     },
     {
       icon: <FileText size={32} />,
