@@ -33,7 +33,7 @@ const Hero = () => {
               <ArrowRight size={20} />
             </button>
             <a
-              href="https://wa.me/919209934667?text=Hello%2C%20I%20need%20information%20about%20your%20services"
+              href="https://wa.me/917666898165?text=Hello%2C%20I%20need%20information%20about%20your%20services"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-gray-900 px-8 py-4 rounded-lg font-semibold border-2 border-gray-200 hover:border-red-300 transition-colors"
