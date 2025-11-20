@@ -17,7 +17,7 @@ const ServiceCard: React.FC<ServiceCardProps> = ({
   whatsappMessage 
 }) => {
   const handleApply = () => {
-    const phoneNumber = '919209934667'; // Replace with your WhatsApp number in international format
+    const phoneNumber = '917666898165'; // Replace with your WhatsApp number in international format
     const encodedMessage = encodeURIComponent(`Hello! I would like to apply for: ${whatsappMessage}`);
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
     window.open(whatsappUrl, '_blank');
