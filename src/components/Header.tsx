@@ -62,7 +62,7 @@ const Header = () => {
           {/* WhatsApp Button */}
           <div className="hidden md:flex">
             <a
-              href="https://wa.me/919209934667?text=Hello%2C%20I%20need%20information%20about%20your%20services"
+              href="https://wa.me/917666898165?text=Hello%2C%20I%20need%20information%20about%20your%20services"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors"
@@ -110,7 +110,7 @@ const Header = () => {
                 Contact
               </button>
               <a
-                href="https://wa.me/919209934667?text=Hello%2C%20I%20need%20information%20about%20your%20services"
+                href="https://wa.me/917666898165?text=Hello%2C%20I%20need%20information%20about%20your%20services"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-left px-3 py-2 text-green-600 font-medium"
