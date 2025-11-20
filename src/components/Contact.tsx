@@ -43,12 +43,12 @@ const Contact = () => {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Call Us</h3>
                 <p className="text-gray-600">
-                  <a href="tel:+919209934667" className="hover:text-green-600 transition-colors">
-                    +91 9209934667
-
-                  </a><br />
                   <a href="tel:+917666898165" className="hover:text-green-600 transition-colors">
                     +91 7666898165
+
+                  </a><br />
+                  <a href="tel:+919209934667" className="hover:text-green-600 transition-colors">
+                    +91 9209934667
 
                   </a>
                 </p>
@@ -99,7 +99,7 @@ const Contact = () => {
             
             <div className="space-y-4 mb-8">
               <a
-                href="https://wa.me/919209934667?text=Hello%2C%20I%20need%20information%20about%20your%20services"
+                href="https://wa.me/917666898165?text=Hello%2C%20I%20need%20information%20about%20your%20services"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-green-500 hover:bg-green-600 text-white p-4 rounded-xl flex items-center space-x-3 transition-colors"
@@ -112,7 +112,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="tel:+919209934667"
+                href="tel:+917666898165"
                 className="w-full bg-blue-500 hover:bg-blue-600 text-white p-4 rounded-xl flex items-center space-x-3 transition-colors"
               >
                 <Phone size={24} />
